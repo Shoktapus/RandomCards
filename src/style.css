@@ -6,19 +6,22 @@ body {
 .card {
   width: 200px;
   height: 300px;
-  margin: 0 auto;
-}
-#demo {
-  font-size: 4.5rem;
-  margin-top: -90px;
-  margin: 0 auto;
-}
-#suit {
-  font-size: 3rem;
-  margin-bottom: -50px;
-
-  margin-left: 145px;
+  margin: 200px auto;
 }
 #suitTwo {
   font-size: 3rem;
+  margin-left: 10px;
+}
+
+#demo {
+  font-size: 4.5rem;
+  padding-top: 20px;
+  margin: 0 auto;
+}
+
+#suit {
+  font-size: 3rem;
+  margin-top: auto;
+
+  margin-left: 145px;
 }

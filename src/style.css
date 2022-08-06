@@ -22,6 +22,6 @@ body {
 #suit {
   font-size: 3rem;
   margin-top: auto;
-
-  margin-left: 145px;
+  transform: rotate(-180deg);
+  margin-right: 10px;
 }
